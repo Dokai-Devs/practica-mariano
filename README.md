@@ -2,7 +2,7 @@
 
 Repo de práctica de Mariano para el plan de formación de DokaiDevs. Acá van las entregas de las etapas 0 a 2. Las etapas 3 y 4 se hacen en [`plantilla-cliente`](https://github.com/Dokai-Devs/plantilla-cliente) y [`agente-integrador`](https://github.com/Dokai-Devs/agente-integrador).
 
-`main` está protegida igual que en un repo de cliente: todo entra por PR, con la revisión de Pablo y CI en verde. El flujo completo está en [CONTRIBUTING](https://github.com/Dokai-Devs/.github/blob/main/CONTRIBUTING.md).
+`main` está protegida igual que en un repo de cliente: todo entra por PR, con la aprobación de quien revisa y CI en verde. El flujo completo está en [CONTRIBUTING](https://github.com/Dokai-Devs/.github/blob/main/CONTRIBUTING.md).
 
 ## Entregas
 
